@@ -57,7 +57,6 @@
 |---|---|---|---|
 | **System Admin** | `admin@gmail.com` | `Admin@123` | `admin_dashboard.php` |
 | **Chief Librarian** | `librarian@gmail.com` | `Librarian@123` | `librarian_dashboard.php` |
-| **Member 1** | `muntaha.prapti137@gmail.com` | *(user password or register new)* | `dashboard.php` |
 | **Member 2** | `member2@gmail.com` | `Member@123` | `dashboard.php` |
 
 ---
