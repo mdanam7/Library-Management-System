@@ -3,15 +3,6 @@
 **Type:** Web Application (PHP + MySQL + Modern CSS + JS)  
 **Course:** Database Systems Project (UIU)  
 
-**Team:**
-| Member | Roll No | Email |
-|---|---|---|
-| Thirtha Dey | 0112410459 | tdey2410459@bscse.uiu.ac.bd |
-| MD Ahsun Bhuiyan Anam | 0112420284 | manam2420284@bscse.uiu.ac.bd |
-| Asad Miah | 0112410199 | amiah2410199@bscse.uiu.ac.bd |
-| Muntaha Jahan Prapti | 0112420517 | mprapti2420517@bscse.uiu.ac.bd |
-
----
 
 ## 🌟 Key Features & Module Overview
 
